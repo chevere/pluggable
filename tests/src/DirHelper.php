@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Chevere\Tests\Pluggable\Helpers;
+namespace Chevere\Tests\src;
 
 use Chevere\Filesystem\Dir;
 use Chevere\Filesystem\Interfaces\DirInterface;

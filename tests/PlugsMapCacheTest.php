@@ -20,7 +20,7 @@ use Chevere\Pluggable\PlugsMap;
 use Chevere\Pluggable\PlugsMapCache;
 use Chevere\Pluggable\Types\HookPlugType;
 use Chevere\Tests\Pluggable\_resources\src\TestHook;
-use Chevere\Tests\Pluggable\Helpers\DirHelper;
+use Chevere\Tests\src\DirHelper;
 use Chevere\Throwable\Exceptions\OutOfBoundsException;
 use Chevere\Throwable\Exceptions\RuntimeException;
 use PHPUnit\Framework\TestCase;

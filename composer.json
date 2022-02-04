@@ -25,7 +25,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Chevere\\Tests\\Pluggable\\": "tests/"
+            "Chevere\\Tests\\Pluggable\\": "tests/",
+            "Chevere\\Tests\\src\\": "tests/src"
         }
     },
     "config": {
